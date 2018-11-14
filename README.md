@@ -4,7 +4,7 @@ To Test This,
 
 - Create .env
 ```sh
-$ cd mts-adonis_authmvc
+$ cd mtis-adonis-authmvc
 $ touch .env
 ```
 
@@ -20,7 +20,7 @@ DB_DATABASE=<YOUR_DB_NAME>
 
 - Install Package Dependencies
 ```sh
-$ cd mts-adonis_authmvc
+$ cd mtis-adonis-authmvc
 $ yarn install
 # or, with npm
 $ npm install
@@ -28,12 +28,12 @@ $ npm install
 
 - Run App in PROD Mode
 ```sh
-$ cd mts-adonis_authmvc
+$ cd mtis-adonis-authmvc
 $ yarn start
 ```
 
 - Run App in DEV Mode
 ```sh
-$ cd mts-adonis_authmvc
+$ cd mtis-adonis-authmvc
 $ adonis serve --dev
 ```
