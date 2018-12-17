@@ -12,7 +12,7 @@
     "adonisjs",
     "adonis-app"
   ],
-  "author": "",
+  "author": "Toufiq (https://twitter.com/burningraven06)",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
